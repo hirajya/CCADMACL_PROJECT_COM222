@@ -17,7 +17,7 @@ warnings.filterwarnings("ignore", category=SyntaxWarning)
 dataset_slug = "rohan0301/unsupervised-learning-on-country-data"
 
 # Define the target folder for saving the dataset
-target_folder = r"../data"  # Raw string to avoid issues with backslashes
+target_folder = r"../data/raw"  # Raw string to avoid issues with backslashes
 os.makedirs(target_folder, exist_ok=True)  # Create the folder if it doesn't exist
 
 # Download the dataset into the specified folder

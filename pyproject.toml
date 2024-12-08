@@ -12,6 +12,7 @@ pandas = "^2.2.3"
 scikit-learn = "^1.5.2"
 ipykernel = "^6.29.5"
 kaggle = "^1.6.17"
+seaborn = "^0.13.2"
 
 
 [tool.poetry.group.dev.dependencies]
