@@ -28,14 +28,14 @@ Follow these steps to clone the repository and set up the environment:
 1. **Clone the Repository**
    Clone this repository to your local machine by running the following command:
    ```bash
-   git clone https://github.com/yourusername/ml-clustering-comparison.git```
+   git clone https://github.com/yourusername/ml-clustering-comparison.git
 
 2. **Navigate to the Project Directory**
    ```bash
-   cd ml-clustering-comparison```
+   cd ml-clustering-comparison
 
 
 3. **Install Dependencies using Poetry**
    Install the dependencies listed in the pyproject.toml file by running:
    ```bash
-   poetry shell```
+   poetry shell
