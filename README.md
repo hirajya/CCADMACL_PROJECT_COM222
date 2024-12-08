@@ -28,11 +28,11 @@ Follow these steps to clone the repository and set up the environment:
 1. **Clone the Repository**
    Clone this repository to your local machine by running the following command:
    ```bash
-   git clone https://github.com/yourusername/ml-clustering-comparison.git
+   git clone https://github.com/yourusername/CCADMACL_PROJECT_COM222.git
 
 2. **Navigate to the Project Directory**
    ```bash
-   cd ml-clustering-comparison
+   cd CCADMACL_PROJECT_COM222
 
 
 3. **Install Dependencies using Poetry**
