@@ -4,3 +4,5 @@ scikit-learn
 ipykernel
 kaggle
 seaborn
+optuna
+hyperopt
