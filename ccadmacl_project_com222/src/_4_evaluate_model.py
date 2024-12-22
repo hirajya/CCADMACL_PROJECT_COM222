@@ -33,7 +33,7 @@ def evaluate_model_on_inputs(model, scaler, inputs=None):
     Returns:
         Predictions for input values.
     """
-    if inputs is None:
+    if  inputs is None:
         # Default example inputs
         inputs = [
             [90.2, 10.0, 7.58, 44.9, 1610, 9.44, 56.2, 5.82, 553],

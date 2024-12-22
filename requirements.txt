@@ -6,3 +6,5 @@ kaggle
 seaborn
 optuna
 hyperopt
+joblib
+streamlit
