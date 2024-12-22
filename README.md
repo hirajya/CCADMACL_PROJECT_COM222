@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project compares various clustering techniques to analyze the provided dataset. The techniques used include **K-Means**, **Hierarchical Clustering**, and **DBSCAN**. The goal is to evaluate and compare how each model clusters the data based on different metrics.
+This project compares various clustering techniques to analyze the provided dataset. The techniques used include **K-Means** and **DBSCAN**. The goal is to evaluate and compare how each model clusters the data based on different metrics. Utilize some hyperparameter tuning tools too such as RandomSearchCV, Optuna, & Hyperopt. Does some scaling comparison between MinMaxScaler and StandardScaler too.
 
 The dataset used is related to various indicators of countries, such as child mortality, exports, health spending, inflation, GDP, and more. The aim is to gain insights into how different countries are grouped based on these factors.
 
