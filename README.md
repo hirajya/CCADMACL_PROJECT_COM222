@@ -11,7 +11,6 @@ You can find the dataset [here on Kaggle](https://www.kaggle.com/datasets/rohan0
 ## Features
 
 - **K-Means Clustering**: A partition-based clustering algorithm that divides the dataset into k clusters.
-- **Hierarchical Clustering**: A method that builds a hierarchy of clusters.
 - **DBSCAN**: A density-based clustering algorithm that groups data points based on density.
 
 ## Prerequisites
